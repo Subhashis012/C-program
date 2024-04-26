@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "MultiplyInput.C": "cpp",
+        "typeinfo": "c"
+    }
+}
